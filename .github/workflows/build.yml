@@ -1,3 +1,4 @@
+name: Build Lily58 ZMK Firmware
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
